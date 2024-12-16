@@ -1,0 +1,1 @@
+import Application from "@core/Application"; const Movico = new Application(); Movico.start();

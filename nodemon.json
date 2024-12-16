@@ -1,0 +1,11 @@
+{
+    "watch": [
+        "_controllers",
+        "_services",
+        "_views",
+        "core",
+        "index.ts"
+    ],
+    "ext": "ts,tsx",
+    "exec": "tsx index.ts"
+}
